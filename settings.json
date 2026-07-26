@@ -1,0 +1,141 @@
+{
+  "version": 2,
+  "tonemapping": "none",
+  "highPrecisionRendering": true,
+  "background": {
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  "postEffectSettings": {
+    "sharpness": {
+      "enabled": true,
+      "amount": 0.6
+    },
+    "bloom": {
+      "enabled": false,
+      "intensity": 1,
+      "blurLevel": 2
+    },
+    "grading": {
+      "enabled": false,
+      "brightness": 1,
+      "contrast": 1,
+      "saturation": 1,
+      "tint": [
+        1,
+        1,
+        1
+      ]
+    },
+    "vignette": {
+      "enabled": false,
+      "intensity": 0.5,
+      "inner": 0.3,
+      "outer": 0.75,
+      "curvature": 1
+    },
+    "fringing": {
+      "enabled": true,
+      "intensity": 33
+    }
+  },
+  "animTracks": [],
+  "cameras": [
+    {
+      "initial": {
+        "position": [
+          5.446557521820068,
+          2.622772216796875,
+          -1.2009223699569702
+        ],
+        "target": [
+          0.5274088227584404,
+          1.0041627662154595,
+          1.4146481268440034
+        ],
+        "fov": 75
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "position": [
+        1.1837432092919231,
+        0.5530093255889685,
+        0.6848674349813029
+      ],
+      "title": "La Magand",
+      "text": "Presse pour petits formats, datée de 1850.",
+      "extras": {},
+      "camera": {
+        "initial": {
+          "position": [
+            5.446557521820068,
+            2.622772216796875,
+            -1.2009223699569702
+          ],
+          "target": [
+            0.5274088227584404,
+            1.0041627662154595,
+            1.4146481268440034
+          ],
+          "fov": 75
+        }
+      }
+    },
+    {
+      "position": [
+        -0.27720339859387033,
+        2.1428711428319063,
+        1.2159760232951902
+      ],
+      "title": "Poignée",
+      "text": "",
+      "extras": {},
+      "camera": {
+        "initial": {
+          "position": [
+            -0.8372124433517456,
+            2.763901948928833,
+            -3.9426138401031494
+          ],
+          "target": [
+            0.5274088227584413,
+            1.0041627662154597,
+            1.4146481268440034
+          ],
+          "fov": 75
+        }
+      }
+    },
+    {
+      "position": [
+        0.8940450880542834,
+        0.5077217329981982,
+        2.473620461188467
+      ],
+      "title": "Plateau du bas",
+      "text": "",
+      "extras": {},
+      "camera": {
+        "initial": {
+          "position": [
+            2.5427918434143066,
+            4.591075897216797,
+            5.5050530433654785
+          ],
+          "target": [
+            0.527408822758443,
+            1.00416276621546,
+            1.4146481268440052
+          ],
+          "fov": 75
+        }
+      }
+    }
+  ],
+  "startMode": "default"
+}
